@@ -15,6 +15,7 @@
             <RowDefinition Height="auto"/>
             <RowDefinition Height="auto"/>
             <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
         <Grid Margin="20">
             <Grid.RowDefinitions>
@@ -59,6 +60,42 @@
                 <Button Content="Toast Notification" Click="Button_Click_3" Margin="10,0,0,0"/>
             </StackPanel>
            
+        </Grid>
+        <Grid Grid.Row="3" Margin="20">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Convert Color From String"/>
+            <StackPanel Orientation="Horizontal" Margin="0,25,0,0">
+                <TextBox Name="txtColorName" Text="0000FF" TextChanged="TxtColorName_TextChanged" Width="300" MaxLength="6"/>
+                <Border Height="30" Width="300" Name="brdColor" Margin="10,0,0,0"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="4" Margin="20">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Create Initials"/>
+            <StackPanel Orientation="Horizontal" Margin="0,25,0,0">
+                <TextBox Name="txtInitials" TextChanged="TxtInitials_TextChanged" Width="300" />
+                <TextBlock Height="30" Width="300" Name="txtInit" Margin="10,0,0,0"/>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="5" Margin="20">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Random Number"/>
+            <StackPanel Orientation="Horizontal" Margin="0,25,0,0">
+                <TextBlock Name="txtRandomNumber" Width="300" />
+            </StackPanel>
         </Grid>
     </Grid>
 </Page>

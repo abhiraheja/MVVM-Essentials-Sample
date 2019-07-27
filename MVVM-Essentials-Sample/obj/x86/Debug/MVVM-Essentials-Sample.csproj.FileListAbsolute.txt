@@ -71,3 +71,9 @@ C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\quali
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\ProjectArchitectures.txt
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758804200000000.json
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\bin\x86\Debug\Microsoft.Xaml.Interactions.pdb
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\bin\x86\Debug\Microsoft.Xaml.Interactivity.pdb
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml

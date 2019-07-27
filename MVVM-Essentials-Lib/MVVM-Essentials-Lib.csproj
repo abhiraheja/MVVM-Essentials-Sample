@@ -122,10 +122,32 @@
   <ItemGroup>
     <Compile Include="AlertBox.cs" />
     <Compile Include="BaseViewModel.cs" />
+    <Compile Include="Camera\CameraControl.xaml.cs">
+      <DependentUpon>CameraControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Camera\CameraControlEventArgs.cs" />
+    <Compile Include="Camera\CameraDialog.xaml.cs">
+      <DependentUpon>CameraDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Camera\CameraOrientationExtensions.cs" />
+    <Compile Include="Camera\ViewModel\CameraDialogViewModel.cs" />
     <Compile Include="CheckInternetAccess.cs" />
+    <Compile Include="ConvertColor.cs" />
+    <Compile Include="Converts\BooleanToVisibilityConverter.cs" />
+    <Compile Include="Converts\BoolToReverseConverter.cs" />
+    <Compile Include="Converts\ConvertObservableCollection.cs" />
+    <Compile Include="Converts\DateTimeToDateTimeOffsetConverter.cs" />
+    <Compile Include="Converts\DecimalConverter.cs" />
+    <Compile Include="Converts\IntegerConvert.cs" />
+    <Compile Include="Converts\RtfText.cs" />
+    <Compile Include="Converts\ValueToString.cs" />
+    <Compile Include="Converts\ValueToVisibilityConverter.cs" />
+    <Compile Include="CreateInitials.cs" />
+    <Compile Include="CreateRandomNumber.cs" />
     <Compile Include="ImageConvert.cs" />
     <Compile Include="MousePointers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RelayCommand.cs" />
     <Compile Include="ShortName.cs" />
     <Compile Include="UploadFiles.cs" />
     <EmbeddedResource Include="Properties\MVVM_Essentials_Lib.rd.xml" />
@@ -134,6 +156,19 @@
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
       <Version>6.2.8</Version>
     </PackageReference>
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Uwp.Managed">
+      <Version>2.0.1</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Camera\CameraControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Camera\CameraDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>

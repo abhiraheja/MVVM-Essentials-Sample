@@ -15,6 +15,7 @@
             <RowDefinition Height="auto"/>
             <RowDefinition Height="auto"/>
             <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
         <Grid Margin="20">
             <Grid.RowDefinitions>
@@ -26,8 +27,8 @@
                 <ColumnDefinition Width="auto"/>
             </Grid.ColumnDefinitions>
             <TextBlock Text="Text minmum length must greater than 3"/>
-            <TextBox x:ConnectionId='8' Name="txtName" Margin="0,30,0,0" Grid.Row="1" BorderThickness="1" PlaceholderText="Enter Text"                                    Header="Enter Text Make that Short" Width="300"/>
-            <TextBlock x:ConnectionId='9' Grid.Row="1" Style="{StaticResource SubheaderTextBlockStyle}" Name="txtNameResult" Grid.Column="1"  Margin="20,35,0,0" VerticalAlignment="Center"/>
+            <TextBox x:ConnectionId='13' Name="txtName" Margin="0,30,0,0" Grid.Row="1" BorderThickness="1" PlaceholderText="Enter Text"                                    Header="Enter Text Make that Short" Width="300"/>
+            <TextBlock x:ConnectionId='14' Grid.Row="1" Style="{StaticResource SubheaderTextBlockStyle}" Name="txtNameResult" Grid.Column="1"  Margin="20,35,0,0" VerticalAlignment="Center"/>
         </Grid>
         <Grid Margin="20" Grid.Row="1">
             <Grid.RowDefinitions>
@@ -40,7 +41,7 @@
             </Grid.ColumnDefinitions>
             <TextBlock Text="Internet Status"/>
 
-            <TextBlock x:ConnectionId='7' Grid.Row="1" Style="{StaticResource SubheaderTextBlockStyle}" Name="txtInternetStatus" Grid.Column="1"  Margin="20,35,0,0" VerticalAlignment="Center"/>
+            <TextBlock x:ConnectionId='12' Grid.Row="1" Style="{StaticResource SubheaderTextBlockStyle}" Name="txtInternetStatus" Grid.Column="1"  Margin="20,35,0,0" VerticalAlignment="Center"/>
         </Grid>
 
         <Grid Margin="20" Grid.Row="2">
@@ -52,13 +53,49 @@
 
             <TextBlock Text="Alert Boxes"/>
             <StackPanel Orientation="Horizontal" Margin="0,25,0,0">
-                <Button x:ConnectionId='2' Content="Simple Alert"                     />
-                <Button x:ConnectionId='3' Content="Custome Alert"                       />
-                <Button x:ConnectionId='4' Content="Alert Yes No"                        Margin="10,0,0,0"/>
-                <Button x:ConnectionId='5' Content="Alert With Multiple buttons"                        Margin="10,0,0,0"/>
-                <Button x:ConnectionId='6' Content="Toast Notification"                        Margin="10,0,0,0"/>
+                <Button x:ConnectionId='7' Content="Simple Alert"                     />
+                <Button x:ConnectionId='8' Content="Custom Alert"                        Margin="10,0,0,0"/>
+                <Button x:ConnectionId='9' Content="Alert Yes No"                        Margin="10,0,0,0"/>
+                <Button x:ConnectionId='10' Content="Alert With Multiple buttons"                        Margin="10,0,0,0"/>
+                <Button x:ConnectionId='11' Content="Toast Notification"                        Margin="10,0,0,0"/>
             </StackPanel>
            
+        </Grid>
+        <Grid Grid.Row="3" Margin="20">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Convert Color From String"/>
+            <StackPanel Orientation="Horizontal" Margin="0,25,0,0">
+                <TextBox x:ConnectionId='5' Name="txtColorName" Text="0000FF"                                        Width="300" MaxLength="6"/>
+                <Border x:ConnectionId='6' Height="30" Width="300" Name="brdColor" Margin="10,0,0,0"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="4" Margin="20">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Create Initials"/>
+            <StackPanel Orientation="Horizontal" Margin="0,25,0,0">
+                <TextBox x:ConnectionId='3' Name="txtInitials"                                       Width="300" />
+                <TextBlock x:ConnectionId='4' Height="30" Width="300" Name="txtInit" Margin="10,0,0,0"/>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="5" Margin="20">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Random Number"/>
+            <StackPanel Orientation="Horizontal" Margin="0,25,0,0">
+                <TextBlock x:ConnectionId='2' Name="txtRandomNumber" Width="300" />
+            </StackPanel>
         </Grid>
     </Grid>
 </Page>

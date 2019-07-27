@@ -21,3 +21,17 @@ C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\pri.resf
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\qualifiers.txt
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\MVVM-Essentials-Lib.csprojAssemblyReference.cache
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\bin\x86\Debug\Camera\CameraControl.xbf
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\bin\x86\Debug\Camera\CameraDialog.xbf
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\bin\x86\Debug\MVVM-Essentials-Lib.xr.xml
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\Camera\CameraControl.g.i.cs
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\Camera\CameraControl.g.cs
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\Camera\CameraDialog.g.i.cs
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\Camera\CameraDialog.g.cs
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\Camera\CameraControl.xaml
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\Camera\CameraDialog.xaml
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\Camera\CameraControl.xbf
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\Camera\CameraDialog.xbf
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\XamlSaveStateFile.xml

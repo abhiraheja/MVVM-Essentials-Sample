@@ -1,0 +1,35 @@
+﻿<ContentDialog
+    x:Class="MVVM_Essentials_Lib.Camera.CameraDialog"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MVVM_Essentials_Lib.Camera"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+     Title="Camera"
+    xmlns:controls="using:MVVM_Essentials_Lib.Camera"
+    xmlns:i="using:Microsoft.Xaml.Interactivity"
+    xmlns:ic="using:Microsoft.Xaml.Interactions.Core">
+
+    <Grid
+        x:Name="ContentArea"
+        >
+        <!--Margin="{StaticResource MediumLeftRightMargin}"-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid
+            Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
+            <controls:CameraControl x:Uid="CameraDialogPage_CameraControl">
+                <i:Interaction.Behaviors>
+                    <ic:EventTriggerBehavior EventName="PhotoTaken">
+                        <ic:InvokeCommandAction Command="{Binding PhotoTakenCommand}"/>
+                    </ic:EventTriggerBehavior>
+                </i:Interaction.Behaviors>
+            </controls:CameraControl>
+
+        </Grid>
+        <Button Content="OK" Grid.Row="1" HorizontalAlignment="Stretch" Click="Button_Click"/>
+    </Grid>
+</ContentDialog>
