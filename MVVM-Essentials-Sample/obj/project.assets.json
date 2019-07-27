@@ -306,6 +306,19 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
+      },
+      "MVVM-Essentials-Lib/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.17134",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.8"
+        },
+        "compile": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0.17134/win10-arm": {
@@ -791,6 +804,19 @@
         "build": {
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
+        }
+      },
+      "MVVM-Essentials-Lib/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.17134",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.8"
+        },
+        "compile": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
         }
       }
     },
@@ -1279,6 +1305,19 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
+      },
+      "MVVM-Essentials-Lib/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.17134",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.8"
+        },
+        "compile": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0.17134/win10-arm64-aot": {
@@ -1766,6 +1805,19 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
+      },
+      "MVVM-Essentials-Lib/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.17134",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.8"
+        },
+        "compile": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0.17134/win10-x64": {
@@ -2251,6 +2303,19 @@
         "build": {
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
+        }
+      },
+      "MVVM-Essentials-Lib/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.17134",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.8"
+        },
+        "compile": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
         }
       }
     },
@@ -2739,6 +2804,19 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
+      },
+      "MVVM-Essentials-Lib/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.17134",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.8"
+        },
+        "compile": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0.17134/win10-x86": {
@@ -3224,6 +3302,19 @@
         },
         "native": {
           "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll": {}
+        }
+      },
+      "MVVM-Essentials-Lib/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.17134",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.8"
+        },
+        "compile": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
         }
       }
     },
@@ -3711,6 +3802,19 @@
         "build": {
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.props": {},
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
+        }
+      },
+      "MVVM-Essentials-Lib/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.17134",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.8"
+        },
+        "compile": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVVM-Essentials-Lib.dll": {}
         }
       }
     }
@@ -8142,10 +8246,16 @@
         "runtimes/win10-x86/lib/uap10.0.15138/netstandard.dll",
         "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll"
       ]
+    },
+    "MVVM-Essentials-Lib/1.0.0": {
+      "type": "project",
+      "path": "../MVVM-Essentials-Lib/MVVM-Essentials-Lib.csproj",
+      "msbuildProject": "../MVVM-Essentials-Lib/MVVM-Essentials-Lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.17134": [
+      "MVVM-Essentials-Lib >= 1.0.0",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.8"
     ]
   },
@@ -8182,7 +8292,11 @@
       },
       "frameworks": {
         "uap10.0.17134": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\MVVM-Essentials-Lib.csproj": {
+              "projectPath": "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\MVVM-Essentials-Lib.csproj"
+            }
+          }
         }
       }
     },

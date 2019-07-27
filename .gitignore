@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/MVVM-Essentials-Sample/v16
+/MVVM-Essentials-Lib/bin/x86/Debug
+/MVVM-Essentials-Sample/bin/x86/Debug
+/MVVM-Essentials-Sample/obj/x86/Debug/.winmd_cache
+/MVVM-Essentials-Sample/obj/x86/Debug/embed
+/MVVM-Essentials-Sample/obj/x86/Debug/intermediatexaml

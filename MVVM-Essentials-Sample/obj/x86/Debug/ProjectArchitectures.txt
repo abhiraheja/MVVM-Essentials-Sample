@@ -1,0 +1,2 @@
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\MVVM-Essentials-Lib.csproj;x86
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\MVVM-Essentials-Sample.csproj;x86
