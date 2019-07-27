@@ -51,8 +51,8 @@ namespace MVVM_Essentials_Lib
                 Windows.Storage.Streams.InMemoryRandomAccessStream imras = new Windows.Storage.Streams.InMemoryRandomAccessStream();
                 Windows.Storage.Streams.DataWriter write = new Windows.Storage.Streams.DataWriter(imras.GetOutputStreamAt(0));
                 write.WriteBytes(code);
-                Task.Run(async () => { await write.StoreAsync(); });
-                Task.Run(async () => { await bitmapImg.SetSourceAsync(imras); });
+                 write.StoreAsync();
+                bitmapImg.SetSourceAsync(imras);
                 return bitmapImg;
             }
             catch (Exception)

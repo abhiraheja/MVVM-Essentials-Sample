@@ -56,3 +56,13 @@ C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Views
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Views\UploadImage\UploadFiles.g.cs
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Views\UploadImage\UploadFiles.xaml
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Views\UploadImage\UploadFiles.xbf
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\bin\x86\Debug\Views\ImageConversion\ImageConversion.xbf
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Views\ImageConversion\ImageConversion.g.i.cs
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Views\ImageConversion\ImageConversion.g.cs
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Views\ImageConversion\ImageConversion.xaml
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Views\ImageConversion\ImageConversion.xbf
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\bin\x86\Debug\Views\CursorSet\CursorSet.xbf
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Views\CursorSet\CursorSet.g.i.cs
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Views\CursorSet\CursorSet.g.cs
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Views\CursorSet\CursorSet.xaml
+C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Sample\obj\x86\Debug\Views\CursorSet\CursorSet.xbf

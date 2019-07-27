@@ -9,11 +9,11 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <NavigationView x:Name="nvSample" Loaded="NvSample_Loaded" IsSettingsVisible="False" SelectionChanged="NvSample_SelectionChanged">
+        <NavigationView x:Name="nvSample" IsSettingsVisible="False" SelectionChanged="NvSample_SelectionChanged">
             <NavigationView.MenuItems>
                 <NavigationViewItem Icon="Upload" Content="File Upload" Tag="upload" />
-                <NavigationViewItem Icon="Save" Content="Menu Item2" Tag="SamplePage2" />
-                <NavigationViewItem Icon="Refresh" Content="Menu Item3" Tag="SamplePage3" />
+                <NavigationViewItem Icon="Trim" Content="Image Conversion" Tag="conversion" />
+                <NavigationViewItem Icon="More" Content="Mouse Set" Tag="mouseSet" />
                 <NavigationViewItem Icon="Download" Content="Menu Item4" Tag="SamplePage4" />
             </NavigationView.MenuItems>
             <NavigationView.Header>

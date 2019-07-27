@@ -43,13 +43,18 @@ namespace MVVM_Essentials_Sample.Views
                         vm.Title = "Upload Files";
                         vm.SubTitle = "Upload Files and Images";
                         break;
+                    case "conversion":
+                        contentFrame.Navigate(typeof(ImageConversion.ImageConversion));
+                        vm.Title = "Image Conversion";
+                        vm.SubTitle = "Convert Image Path To Byte[] and Byte[] To Bitmap Image";
+                        break;
+                    case "mouseSet":
+                        contentFrame.Navigate(typeof(CursorSet.CursorSet));
+                        vm.Title = "Mouse Cursor Set";
+                        vm.SubTitle = "Mouse cursor change on each textbox";
+                        break;
                 }
             }
-        }
-
-        private void NvSample_Loaded(object sender, RoutedEventArgs e)
-        {
-           
         }
     }
 }
