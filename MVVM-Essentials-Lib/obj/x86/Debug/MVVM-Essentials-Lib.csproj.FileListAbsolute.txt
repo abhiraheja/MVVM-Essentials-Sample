@@ -2,7 +2,6 @@ C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\bin\x86\Debug\MVVM-Ess
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\bin\x86\Debug\MVVM-Essentials-Lib.pdb
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\bin\x86\Debug\MVVM-Essentials-Lib.pri
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
-C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\MVVM-Essentials-Lib.csprojAssemblyReference.cache
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\MVVM-Essentials-Lib.csproj.CoreCompileInputs.cache
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\MVVM-Essentials-Lib.csproj.CopyComplete
 C:\Work\GitHub\MVVM-Essentials-Sample\MVVM-Essentials-Lib\obj\x86\Debug\MVVM-Essentials-Lib.dll

@@ -9,14 +9,14 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
-        <TextBlock x:ConnectionId='2' Width="300" Text="Hand"                                                                                   Margin="0,10,0,0"/>
-        <TextBlock x:ConnectionId='3' Width="300" Text="Cross"                                                                                    Margin="0,10,0,0"/>
-        <TextBlock x:ConnectionId='4' Width="300" Text="Help"                                                                                   Margin="0,10,0,0"/>
-        <TextBlock x:ConnectionId='5' Width="300" Text="IBeam"                                                                                    Margin="0,10,0,0"/>
-        <TextBlock x:ConnectionId='6' Width="300" Text="Person"                                                                                     Margin="0,10,0,0"/>
-        <TextBlock x:ConnectionId='7' Width="300" Text="Pin"                                                                                  Margin="0,10,0,0"/>
-        <TextBlock x:ConnectionId='8' Width="300" Text="UniversalNo"                                                                                          Margin="0,10,0,0"/>
-        <TextBlock x:ConnectionId='9' Width="300" Text="Wait"                                                                                   Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='2' Width="300" Text="Hand Cursor" Style="{StaticResource HeaderTextBlockStyle}"                                                                                   Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='3' Width="300" Text="Cross Cursor" Style="{StaticResource HeaderTextBlockStyle}"                                                                                    Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='4' Width="300" Text="Help Cursor" Style="{StaticResource HeaderTextBlockStyle}"                                                                                   Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='5' Width="300" Text="IBeam Cursor" Style="{StaticResource HeaderTextBlockStyle}"                                                                                    Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='6' Width="300" Text="Person Cursor" Style="{StaticResource HeaderTextBlockStyle}"                                                                                     Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='7' Width="300" Text="Pin Cursor" Style="{StaticResource HeaderTextBlockStyle}"                                                                                  Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='8' Width="500" Text="UniversalNo Cursor" Style="{StaticResource HeaderTextBlockStyle}"                                                                                          Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='9' Width="300" Text="Wait Cursor" Style="{StaticResource HeaderTextBlockStyle}"                                                                                   Margin="0,10,0,0"/>
     </StackPanel>
 </Page>
 

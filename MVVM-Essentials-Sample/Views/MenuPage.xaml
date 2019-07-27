@@ -14,7 +14,7 @@
                 <NavigationViewItem Icon="Upload" Content="File Upload" Tag="upload" />
                 <NavigationViewItem Icon="Trim" Content="Image Conversion" Tag="conversion" />
                 <NavigationViewItem Icon="More" Content="Mouse Set" Tag="mouseSet" />
-                <NavigationViewItem Icon="Download" Content="Menu Item4" Tag="SamplePage4" />
+                <NavigationViewItem Icon="Download" Content="Basic Information" Tag="basicInfo" />
             </NavigationView.MenuItems>
             <NavigationView.Header>
                 <StackPanel>

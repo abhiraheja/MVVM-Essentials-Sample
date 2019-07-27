@@ -53,6 +53,11 @@ namespace MVVM_Essentials_Sample.Views
                         vm.Title = "Mouse Cursor Set";
                         vm.SubTitle = "Mouse cursor change on each textbox";
                         break;
+                    case "basicInfo":
+                        contentFrame.Navigate(typeof(BasicTasks.BasicTasks));
+                        vm.Title = "Basic Controls";
+                        vm.SubTitle = "Basic Controls Which we need in the project most.";
+                        break;
                 }
             }
         }

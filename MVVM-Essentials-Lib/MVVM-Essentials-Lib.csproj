@@ -120,10 +120,13 @@
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="AlertBox.cs" />
     <Compile Include="BaseViewModel.cs" />
+    <Compile Include="CheckInternetAccess.cs" />
     <Compile Include="ImageConvert.cs" />
     <Compile Include="MousePointers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShortName.cs" />
     <Compile Include="UploadFiles.cs" />
     <EmbeddedResource Include="Properties\MVVM_Essentials_Lib.rd.xml" />
   </ItemGroup>

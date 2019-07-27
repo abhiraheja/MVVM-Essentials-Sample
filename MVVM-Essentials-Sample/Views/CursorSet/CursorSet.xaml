@@ -15,7 +15,7 @@
         <TextBlock Width="300" Text="IBeam Cursor" Style="{StaticResource HeaderTextBlockStyle}" PointerExited="TextBox_PointerExited" PointerEntered="TextBox_PointerIBeamEntered" Margin="0,10,0,0"/>
         <TextBlock Width="300" Text="Person Cursor" Style="{StaticResource HeaderTextBlockStyle}" PointerExited="TextBox_PointerExited" PointerEntered="TextBox_PointerPersonEntered" Margin="0,10,0,0"/>
         <TextBlock Width="300" Text="Pin Cursor" Style="{StaticResource HeaderTextBlockStyle}" PointerExited="TextBox_PointerExited" PointerEntered="TextBox_PointerPinEntered" Margin="0,10,0,0"/>
-        <TextBlock Width="300" Text="UniversalNo Cursor" Style="{StaticResource HeaderTextBlockStyle}" PointerExited="TextBox_PointerExited" PointerEntered="TextBox_PointerUniversalNoEntered" Margin="0,10,0,0"/>
+        <TextBlock Width="500" Text="UniversalNo Cursor" Style="{StaticResource HeaderTextBlockStyle}" PointerExited="TextBox_PointerExited" PointerEntered="TextBox_PointerUniversalNoEntered" Margin="0,10,0,0"/>
         <TextBlock Width="300" Text="Wait Cursor" Style="{StaticResource HeaderTextBlockStyle}" PointerExited="TextBox_PointerExited" PointerEntered="TextBox_PointerWaitEntered" Margin="0,10,0,0"/>
     </StackPanel>
 </Page>
