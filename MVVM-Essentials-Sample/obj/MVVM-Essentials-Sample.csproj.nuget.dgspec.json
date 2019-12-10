@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample.csproj": {}
+    "C:\\Work\\Git\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample.csproj": {}
   },
   "projects": {
-    "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\MVVM-Essentials-Lib.csproj": {
+    "C:\\Work\\Git\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\MVVM-Essentials-Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\MVVM-Essentials-Lib.csproj",
+        "projectUniqueName": "C:\\Work\\Git\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\MVVM-Essentials-Lib.csproj",
         "projectName": "MVVM-Essentials-Lib",
-        "projectPath": "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\MVVM-Essentials-Lib.csproj",
-        "packagesPath": "C:\\Users\\Abhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\obj\\",
+        "projectPath": "C:\\Work\\Git\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\MVVM-Essentials-Lib.csproj",
+        "packagesPath": "C:\\Users\\rahej\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\Git\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Abhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rahej\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample.csproj": {
+    "C:\\Work\\Git\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample.csproj",
+        "projectUniqueName": "C:\\Work\\Git\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample.csproj",
         "projectName": "MVVM-Essentials-Sample",
-        "projectPath": "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample.csproj",
-        "packagesPath": "C:\\Users\\Abhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample\\obj\\",
+        "projectPath": "C:\\Work\\Git\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample.csproj",
+        "packagesPath": "C:\\Users\\rahej\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\Git\\MVVM-Essentials-Sample\\MVVM-Essentials-Sample\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -94,7 +94,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Abhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rahej\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -108,8 +108,8 @@
         "frameworks": {
           "uap10.0.17134": {
             "projectReferences": {
-              "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\MVVM-Essentials-Lib.csproj": {
-                "projectPath": "C:\\Work\\GitHub\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\MVVM-Essentials-Lib.csproj"
+              "C:\\Work\\Git\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\MVVM-Essentials-Lib.csproj": {
+                "projectPath": "C:\\Work\\Git\\MVVM-Essentials-Sample\\MVVM-Essentials-Lib\\MVVM-Essentials-Lib.csproj"
               }
             }
           }
